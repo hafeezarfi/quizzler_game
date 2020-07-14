@@ -1,6 +1,6 @@
 # quizzler_game
 
-A new Flutter application.
+Guessing quiz travia, based on appbrewery course.
 
 ## Getting Started
 
